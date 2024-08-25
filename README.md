@@ -1,2 +1,0 @@
-# proyectoPrueba
-prueba
